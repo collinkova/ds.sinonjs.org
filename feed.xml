@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ds.sinonjs.org</title>
+    <link>https://ds.sinonjs.org/</link>
+    <description>The definitive guide to Sinon.js</description>
+    <atom:link href="https://ds.sinonjs.org/feed.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <pubDate>Thu, 19 May 2023 07:00:00 GMT</pubDate>
+    <lastBuildDate>Thu, 19 May 2023 07:00:00 GMT</lastBuildDate>
+    <generator>Sinon.js</generator>
+    <item>
+      <title>Sinon.js 7.0.0 Released</title>
+      <link>https://ds.sinonjs.org/releases/v7.0.0/</link>
+      <description>Sinon.js 7.0.0 is now available. This release includes a number of new features and improvements, including:</description>
+      <pubDate>Thu, 19 May 2023 07:00:00 GMT</pubDate>
+      <guid>https://ds.sinonjs.org/releases/v7.0.0/</guid>
+    </item>
+    <item>
+      <title>Sinon.js 6.1.0 Released</title>
+      <link>https://ds.sinonjs.org/releases/v6.1.0/</link>
+      <description>Sinon.js 6.1.0 is now available. This release includes a number of bug fixes and improvements, including:</description>
+      <pubDate>Mon, 16 May 2023 07:00:00 GMT</pubDate>
+      <guid>https://ds.sinonjs.org/releases/v6.1.0/</guid>
+    </item>
+    <item>
+      <title>Sinon.js 6.0.0 Released</title>
+      <link>https://ds.sinonjs.org/releases/v6.0.0/</link>
+      <description>Sinon.js 6.0.0 is now available. This release includes a number of new features and improvements, including:</description>
+      <pubDate>Thu, 09 May 2023 07:00:00 GMT</pubDate>
+      <guid>https://ds.sinonjs.org/releases/v6.0.0/</guid>
+    </item>
+    <item>
+      <title>Sinon.js 5.1.0 Released</title>
+      <link>https://ds.sinonjs.org/releases/v5.1.0/</link>
+      <description>Sinon.js 5.1.0 is now available. This release includes a number of bug fixes and improvements, including:</description>
+      <pubDate>Mon, 02 May 2023 07:00:00 GMT</pubDate>
+      <guid>https://ds.sinonjs.org/releases/v5.1.0/</guid>
+    </item>
+    <item>
+      <title>Sinon.js 5.0.0 Released</title>
+      <link>https://ds.sinonjs.org/releases/v5.0.0/</link>
+      <description>Sinon.js 5.0.0 is now available. This release includes a number of new features and improvements, including:</description>
+      <pubDate>Thu, 19 Apr 2023 07:00:00 GMT</pubDate>
+      <guid>https://ds.sinonjs.org/releases/v5.0.0/</guid>
+    </item>
+  </channel>
+</rss>
